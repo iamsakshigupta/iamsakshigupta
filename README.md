@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsakshigupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamsakshigupta" /> </p>
 
-- 💬 Ask me about **React.js, Tailwind, HTML, CSS, JacaScript**
+- 💬 Ask me about **React.js, Tailwind, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **sakshig9710@gmail.com**
 
