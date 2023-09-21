@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">FrontEnd Developer | Open Source Enthusiast | Continuous Learner</h3>
+<h3 align="center">Front-End Developer | Open Source Enthusiast | Continuous Learner</h3>
 
 
 ## 🌐 Socials:
